@@ -1,2 +1,1 @@
-# borovHokage.github.io isu 307665
-# 307665
+# isu 307665
