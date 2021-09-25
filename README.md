@@ -1,1 +1,3 @@
-# isu 307665
+#1) U2FsdGVkX1+g8lehyvbB4MJXOvV0nn+lOgUTQT62aNZ6e0MWg7Kspgqeu2gCkDjd
+osIjDs4wrf/OhtngPMgRqQ==
+#2)key: 12345678987654321
